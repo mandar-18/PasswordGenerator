@@ -1,2 +1,2 @@
 # PasswordGenerator
-A simple script for strong password generation
+A simple python script for strong password generation
